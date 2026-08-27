@@ -1,10 +1,8 @@
 # Controlled Introduction
 
-## a. What is a prompt?
+## a. What is AI?
 
-A **prompt** is the instruction or input given to an AI system to tell it what we want it to do.
-
-A prompt can be a question, a task, or a request — it is how we communicate our requirement to an AI model so that it can generate a relevant response.
+Artificial Intelligence (AI) is a branch of computer science that focuses on building systems capable of performing tasks that normally require human intelligence — such as understanding language, recognizing patterns, making decisions, and learning from experience.
 
 
 ## b. Basic prompt structure (task + context)
