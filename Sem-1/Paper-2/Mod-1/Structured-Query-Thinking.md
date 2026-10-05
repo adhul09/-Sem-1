@@ -39,11 +39,3 @@ db.users.aggregate([
 ```
 
 ---
-
-## Practice Approach
-
-Whenever you get a data question, **write out the steps in plain English first**, before writing any code:
-
-> "I need to filter by X, then group by Y, then sort by Z."
-
-Only after that, translate each plain-English step into its matching aggregation stage (`$match`, `$group`, `$sort`, etc.). This habit prevents you from getting stuck trying to write the whole query in one go, and mirrors exactly how real-world data questions are solved.

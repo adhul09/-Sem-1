@@ -68,4 +68,3 @@ db.orders.aggregate([
 2. `$group` → group them by customer, summing their order amounts
 3. `$sort` → arrange results from highest spender to lowest
 
-**Practice idea:** Try building a pipeline that finds the average order amount (`$avg` instead of `$sum`) per city, using `$match` → `$group` → `$sort`.

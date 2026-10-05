@@ -73,5 +73,3 @@ This flexibility is called a **dynamic** or **schema-less** structure — though
 }
 ```
 
-**Practice idea:**
-Try creating one document with only basic fields (name, age), and another in the same collection with nested objects and arrays (address, hobbies) — both are valid in MongoDB, which is the core idea behind its flexible schema.
